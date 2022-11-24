@@ -1,14 +1,25 @@
 {
   "files": {
-    "main.css": "/dev/static/css/main.073c9b0a.css",
-    "main.js": "/dev/static/js/main.f76beaa8.js",
-    "static/media/logo.svg": "/dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/dev/static/css/main.44995a5b.css",
+    "main.js": "/dev/static/js/main.a002ecb9.js",
+    "static/media/Mareep.png": "/dev/static/media/Mareep.58d5e806d88d39057bef.png",
+    "static/media/Tornadus.png": "/dev/static/media/Tornadus.b25e67de00c0a1e89630.png",
+    "static/media/Jolteon.png": "/dev/static/media/Jolteon.03620b707a30e996d6cc.png",
+    "static/media/Thundurus.png": "/dev/static/media/Thundurus.48f171572fbcd199f64b.png",
+    "static/media/Tynamo.png": "/dev/static/media/Tynamo.3ea39e159af989764313.png",
+    "static/media/Eelektrik.png": "/dev/static/media/Eelektrik.722eb57d7698e1478a65.png",
+    "static/media/Pikachu.png": "/dev/static/media/Pikachu.6a691529d0e20e456cab.png",
+    "static/media/Flaaffy.png": "/dev/static/media/Flaaffy.24567e039c1a3da308c7.png",
+    "static/media/Ampharos.png": "/dev/static/media/Ampharos.881b24e3d688d9d83d93.png",
+    "static/media/Eelektross.png": "/dev/static/media/Eelektross.61d8b896a18be6100b34.png",
+    "static/media/Corvisquire.png": "/dev/static/media/Corvisquire.d86897a95c66a24b041d.png",
+    "static/media/Rookidee.png": "/dev/static/media/Rookidee.602ee5dbc9ca30ac714a.png",
     "index.html": "/dev/index.html",
-    "main.073c9b0a.css.map": "/dev/static/css/main.073c9b0a.css.map",
-    "main.f76beaa8.js.map": "/dev/static/js/main.f76beaa8.js.map"
+    "main.44995a5b.css.map": "/dev/static/css/main.44995a5b.css.map",
+    "main.a002ecb9.js.map": "/dev/static/js/main.a002ecb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f76beaa8.js"
+    "static/css/main.44995a5b.css",
+    "static/js/main.a002ecb9.js"
   ]
 }
