@@ -1,7 +1,7 @@
 .cart {
     display: flex;
     flex-direction: column;
-    min-width: 300px;
+    min-width: 30%;
 }
 
 .cartItem {
@@ -11,7 +11,7 @@
     border: 2px solid black;
     padding: 10px;
     margin: 2px;
-    min-width: 600px;
+    min-width: 25%;
 }
 
 .cartItem img {
